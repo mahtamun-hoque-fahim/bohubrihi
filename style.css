@@ -1,0 +1,60 @@
+
+
+.banner-container{
+    background-color: #C9C8CA;
+}
+
+.container-color{
+    background: linear-gradient(0deg,#01BBBD,rgb(1, 174, 255));
+}
+#navbar-brand{
+    height: 50px;
+    width: 120px;
+}
+.nav-color{
+    background-color: #00C8FE;
+}
+.about-container{
+    background-color:#00DEE2;
+}
+.education-container{
+  background-color: #26EDB7;
+}
+
+.red-type{
+    background-color: #FB8580;
+}
+.red-type-color{
+    color:yellow ;
+}
+.circle{
+    background-color: #FB8580;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: #A2F78B;
+}
+
+.form-container{
+    background-color: #3A3E4D;
+}
+.inner-form{
+    background-color: #51586E;
+}
+.footer{
+    background-color: #1A82B3;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+}
+.round{
+ border-radius: 100px;
+}
